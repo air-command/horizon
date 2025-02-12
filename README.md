@@ -18,4 +18,5 @@ The **info.txt** files in any folder include general information about that asse
 This repository will be actively updated over the coming weeks/months as we organize all the files.
 
 ## Construction Videos
-The YouTube playlist with all the construction videos is available here: https://www.youtube.com/playlist?list=PL-zcDPSotX7pQ490T-lMMBW_i7fbfD8UH
+The YouTube playlist with all the construction videos is available here:\
+https://www.youtube.com/playlist?list=PL-zcDPSotX7pQ490T-lMMBW_i7fbfD8UH
