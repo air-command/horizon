@@ -1,0 +1,18 @@
+Narrow wedge reinforcing:
+layer 1: 0-90 200gsm Carbon fiber 45 x 130mm
+layer 2: 45-45 200gsm Carbon fiber 45 x 130mm
+layer 3: 0-90 200gsm Carbon fiber 45 x 130mm
+layer 4: 45-45 200gsm Carbon fiber 45 x 130mm
+top layer: 0-90 85gsm fiberlgass 45 x 130mm
+baking paper on top and pressed down with the 3D printed Wedge
+This is repeated 3 times
+
+Wide wedge reinforcing:
+layer 1: 0-90 200gsm Carbon fiber 50 x 130mm
+layer 2: 45-45 200gsm Carbon fiber 50 x 130mm
+layer 3: 0-90 200gsm Carbon fiber 50 x 130mm
+layer 4: 45-45 200gsm Carbon fiber 50 x 130mm
+top layer: 0-90 85gsm fiberlgass 50 x 130mm
+baking paper on top and pressed down with the 3D printed Wedge
+This is repeated 3 times
+

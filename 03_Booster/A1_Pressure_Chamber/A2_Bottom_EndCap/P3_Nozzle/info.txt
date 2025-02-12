@@ -1,0 +1,4 @@
+Nozzle is machined from aluminium.
+Internal diameter: 19.45mm
+Extternal diameter: 22.75mm
+Length: 25mm

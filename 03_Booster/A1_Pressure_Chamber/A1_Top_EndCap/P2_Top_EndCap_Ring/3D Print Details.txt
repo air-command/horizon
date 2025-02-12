@@ -1,0 +1,8 @@
+Top Endcap Ring
+Supports: No
+Additions: skirt - 2 layers 
+Layer Height: 0.25
+Bottom Layers: 3
+Top Layers: 3
+Perimeters: 4
+Infill: 100%

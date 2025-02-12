@@ -1,0 +1,6 @@
+5 layers top and bottom
+3 perimeter layers
+10% infill
+0.25mm layer height 
+PLA
+default printing speed: 4800mm/min

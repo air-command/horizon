@@ -1,0 +1,12 @@
+The segment spacer helps align the middle brackets during construction. The spacer also is used during the assembly of the entire booster to get the correct inter-segment spacing. 
+
+3D Printer settings:
+
+5 layers top and bottom
+3 perimeter layers
+10% infill
+0.25mm layer height 
+PLA
+default printing speed: 3000mm/min
+
+3 hours to print

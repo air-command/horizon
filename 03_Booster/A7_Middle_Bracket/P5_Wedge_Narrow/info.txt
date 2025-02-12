@@ -1,0 +1,8 @@
+This is used to help force the reinforcing cloth into shape in the narrow spaces between the brackets.
+
+PLA+ Black
+3 top and bottom layers
+0.25 layer height
+speed 4800
+3 perimeter layers
+10% infill

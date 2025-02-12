@@ -1,0 +1,12 @@
+The reinforcing on the outside and inside of each joint of the ring is the same. 
+The following layers are used. The shortest is on the inside and the longest is on the outside.
+
+layer 1: 20 x 80mm - 45-45 CF
+layer 2: 30 x 80mm - 0-90 CF
+layer 3: 30 x 80mm - 45-45 CF
+layer 4: 40 x 80mm - 0-90 CF
+layer 5: 50 x 80mm - 45-45 CF
+layer 6: 55 x 80mm - 0-90 85 gsm glass
+
+These are all layed up on a piece of baking paper with the outside first
+These are then applied to both the inside and outside and compressed together between the P1_Wedges until cured. 

@@ -1,0 +1,8 @@
+This is used to help force the reinforcing cloth into shape on the inside and outside of the top ring.
+
+PLA+ White
+3 top and bottom layers
+0.25 layer height
+speed 4800
+3 perimeter layers
+10% infill

@@ -1,0 +1,5 @@
+infill 15%
+top and bottom layer 5
+shells 3
+speed 3600
+white PLA+

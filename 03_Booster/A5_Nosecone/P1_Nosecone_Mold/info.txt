@@ -1,0 +1,5 @@
+PLA+ white
+9% infill
+4 perimeters
+5 layers top and bottom
+speed 4800

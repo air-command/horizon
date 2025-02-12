@@ -1,0 +1,9 @@
+Top Endcap Plug
+Supports: No
+Additions: No
+Layer Height: 0.25
+Bottom Layers: 3
+Top Layers: 3
+Perimeters: 2
+Infill: 100%
+

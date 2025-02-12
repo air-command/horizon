@@ -1,0 +1,8 @@
+P4_Nozzle_Extension
+Supports: No
+Additions: No
+Layer Height: 0.25
+Bottom Layers: 3
+Top Layers: 3
+Perimeters: 4
+Infill: 10% - though it ends up being solid

@@ -1,0 +1,9 @@
+P1_NozzleMeasure - Bottom Endcap Measure
+Supports: No
+Additions: No
+Layer Height: 0.25
+Bottom Layers: 3
+Top Layers: 3
+Perimeters: 4
+Infill: 15%
+

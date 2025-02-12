@@ -1,0 +1,6 @@
+infill 15%
+speed 3200
+layer 0.25
+top 3
+bottom 3
+perimeter 3

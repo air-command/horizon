@@ -1,0 +1,8 @@
+P2_Bottom_Endcap_Mold
+Supports: No
+Additions: No
+Layer Height: 0.25
+Bottom Layers: 6
+Top Layers: 6
+Perimeters: 4
+Infill: 10%
