@@ -12,4 +12,7 @@ Components use Unit number / Assembly Number / Part Number labeling scheme.
 Example: 03A2A3P6 expands to 03_Booster > A2_Deployment > A3_Camera_Pod > P6_Battery_808
 Which refers to the 808 camera battery mount of the camera pod on top of the Booster. 
 
-The info.txt files in any folder include general information about that assembly or part. 
+The **info.txt** files in any folder include general information about that assembly or part. 
+
+## PLEASE NOTE
+This repository will be actively updated over the coming weeks/months as we organize all the files.
